@@ -107,8 +107,9 @@ input:focus{
     background-color: gray;
 }
 .haeder3{
+    display:grid;
+    grid-auto-flow:column;
     margin-left: 10px;
-    display: flex;
     max-width: 88%;
     overflow-x: scroll;
 }
