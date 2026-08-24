@@ -137,7 +137,7 @@ input:focus{
     transform: rotate(180deg);
 }
 img{
-    transition: transform 0.4s;
+    transition: transform 0.3s;
 }
 
 .Offer{
